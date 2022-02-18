@@ -1,5 +1,6 @@
 hello git
 master branch test
 hot-fix test
+github fix
 hello git
 
